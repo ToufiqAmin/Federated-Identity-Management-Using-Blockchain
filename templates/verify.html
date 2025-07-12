@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>OTP Verification</title>
+	<link rel="stylesheet" href="static/css/verify.css">
+</head>
+<body>
+	<h1>OTP Verification</h1>
+	<p>Enter the OTP sent to {{ phone_number }}</p>
+	<form method="POST" action="/verify">
+		<input type="hidden" name="phone_number" value="{{ phone_number }}">
+		<label for="otp">OTP:</label>
+		<input type="text" name="otp" required>
+		<button type="submit">Verify</button>
+	</form>
+	<p></p>
+    <p></p>
+    <p>This portal is developed as an experiment to implement a newly conceptualized Blockchain model for an identification system</p>
+</body>
+</html>

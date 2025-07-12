@@ -1,0 +1,30 @@
+body {
+    font-family: sans-serif;
+    font-size: 16px;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    text-align: center;
+    margin-top: 0;
+}
+
+form {
+    width: 500px;
+    margin: 0 auto;
+}
+
+button {
+    display: block;
+    margin: 0 auto;
+    background-color: #000;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #555;
+}

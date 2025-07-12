@@ -1,0 +1,34 @@
+The Offer
+
+Join a team of world class IT professionals
+
+Attractive salary and benefits
+
+Fantastic work culture
+
+The Job
+
+Your responsibilities will include:
+
+
+Develop, and implement mobile applications for Android, or cross-platform environments based on project requirements.
+
+Create code that is modular, maintainable, and adheres to coding best practices.
+
+Ideal Candidate
+
+
+Bachelor's degree or higher in Computer Science, Software Engineering, or a related field is typically required. A solid educational background provides a foundation in software development principles and programming languages.
+
+Proficiency in programming languages specific to the targeted mobile platforms is crucial. For Android app development, knowledge of Java and react.js is essential
+
+Previous experience in developing mobile applications is highly desirable. Demonstrated expertise in creating functional, user-friendly, and performant apps for Android and/or iOS platforms is a significant advantage.
+
+
+Understanding mobile user interface (UI) and user experience (UX) principles is essential. The ability to design intuitive and visually appealing interfaces that enhance user engagement is a valuable skill.
+
+Experience in integrating mobile apps with backend services and APIs is beneficial. Knowledge of RESTful APIs and data exchange protocols is essential for seamless app functionality.
+
+Mobile App Programmers should be adept at identifying and solving technical issues and challenges during app development. Problem-solving solid abilities contribute to creating robust and reliable applications.
+
+
