@@ -1,5 +1,4 @@
 # Federated-Identity-Management-Using-Blockchain
-This is a Master program's final year project
 Program Name: Master in Information Systems Security (MISS), Bangladesh University of Professionals (BUP)
 Supervisor Name: Dr. Md. Mahbubur Rahman, Professor, MIST
 Project Partner: 1. Amrita Rani Paul (Database Administrator),
